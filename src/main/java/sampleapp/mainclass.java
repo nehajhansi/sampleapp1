@@ -2,7 +2,8 @@ package sampleapp;
 
 public class mainclass {
 	static void display() {
-		System.out.println("This is the new function");
+		System.out.println("This is the old function");
+		System.out.println();
 	}
 
 	public static void main(String[] args) {
