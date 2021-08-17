@@ -3,7 +3,7 @@ package sampleapp;
 public class mainclass {
 	static void display() {
 		System.out.println("This is the old function");
-		System.out.println();
+		System.out.println("Changes made in first display function");
 	}
 
 	public static void main(String[] args) {
